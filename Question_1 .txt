@@ -1,6 +1,6 @@
 3. Numerology considers the special relationship between a number and one or more coinciding
 events. It has been used throughout human history as a way to attach meaning to a name, object,
-or event using mathematics. Numerology is considered a “pseudoscience” since it has no basis in
+or event using mathematics. Numerology is considered a â€œpseudoscienceâ€ since it has no basis in
 observable phenomena. Nevertheless, it makes for an interesting programming challenge!
 1 2 3 4 5 6 7 8 9
 A B C D E F G H I
@@ -8,15 +8,15 @@ J K L M N O P Q R
 S T U V W X Y Z
 Your program should start by asking the user to type in their name and convert all the letters to
 uppercase. In the preceding table, each letter of the alphabet has a corresponding number. Using
-this table, add up the total of all the number values in the person’s name to arrive at a single
+this table, add up the total of all the number values in the personâ€™s name to arrive at a single
 whole number. If a user enters spaces or extra punctuation, you can ignore these characters. For
-example, for the name “Dennis”:
-“D” = 4
-“E” = 5
-“N” = 5
-“N” = 5
-“I” = 9
-“S” = 1
+example, for the name â€œDennisâ€:
+â€œDâ€ = 4
+â€œEâ€ = 5
+â€œNâ€ = 5
+â€œNâ€ = 5
+â€œIâ€ = 9
+â€œSâ€ = 1
 4 + 5 + 5 + 5 + 9 + 1 = 29
 Once you have the sum, the number must be reduced so that it is 1, 2, 3, 4, 5, 6, 7, 8, 9, 11, or 22.
 In numerology, numbers are reduced by adding together their individual digits. For example, 29
